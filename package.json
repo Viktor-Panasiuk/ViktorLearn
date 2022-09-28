@@ -2,20 +2,20 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Viktor-Panasiuk.github.io/parcel_template",
+  "homepage": "https://Viktor-Panasiuk.github.io/ViktorLearn",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel_template/"
+    "build": "parcel build src/*.html --public-url /ViktorLearn/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Viktor-Panasiuk/parcel_template.git"
+    "url": "git+https://github.com/Viktor-Panasiuk/ViktorLearn.git"
   },
   "keywords": [],
   "author": "Viktor Panasiuk <vo151184pvv@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Viktor-Panasiuk/parcel_template/issues"
+    "url": "https://github.com/Viktor-Panasiuk/ViktorLearn/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
